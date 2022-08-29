@@ -1,0 +1,40 @@
+
+table{
+border: 1px solid black;
+width: 100%;
+border-collapse:collapse;
+text-align: center;
+
+}
+th,td{
+    border: 1px solid black;
+
+}
+
+.celda1{
+background-color: rgb(100, 218, 100);
+text-align:  center;
+
+}
+
+.celda2{
+
+background-color: rgb(59, 179, 209);
+text-align: left;
+}
+
+.celda358{
+    color: red;
+    text-align: center;
+}
+
+.celda6{
+    background-color: rgb(236, 99, 145);
+    text-align:right;
+
+}
+
+.celda47{
+    text-align: center;
+
+}
