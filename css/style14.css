@@ -1,0 +1,39 @@
+.div_principal {
+    width: 900px;
+    height: 600px;
+    background-color: aquamarine;
+    background-image: url("/images/pingu.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.div_tabla {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+table {
+    border: 1px solid black;
+    align-items: center;
+    width: 600px;
+
+}
+
+th {
+    border: 1px solid black;
+    background-color: aliceblue;
+}
+
+td {
+    border: 1px solid black;
+    background-color: bisque;
+    text-align: center;
+
+}
