@@ -1,0 +1,31 @@
+table {
+    border: 1px solid black;
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.titulo {
+    background-color: rgb(26, 129, 26);
+}
+
+.cabecera {
+    background-color: rgb(226, 104, 34);
+}
+
+.subcabecera {
+    background-color: rgb(226, 213, 34);
+}
+
+td {
+
+    border: 1px solid black;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+div {
+    background-image: url("/ej6/images/download.jpeg");
+    width: auto;
+    height: auto;
+}
