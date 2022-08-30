@@ -1,0 +1,109 @@
+.principal {
+    width: 600px;
+    height: 500px;
+    background-image: url("/ej7/images/ac.jpg");
+    display: inline-block;
+    margin: 5%;
+
+}
+
+.primera_fila,
+.segunda_fila,
+.tercera_fila {
+    display: flex;
+}
+
+
+#a,
+#b,
+#c,
+#d,
+#e,
+#f,
+#g,
+#h,
+#i,
+#j,
+#k,
+#l {
+    width: 120px;
+    height: 120px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 3%;
+}
+
+#a {
+    background-image: url(/ej7/images/back_mantel.jpg);
+}
+
+#b {
+    background-color: transparent;
+}
+
+#b>div {
+    background-image: url(/ej7/images/back_mantel.jpg);
+    margin: 10px;
+    height: 80px;
+}
+
+#c {
+    background-image: url(/ej7/images/back_mantel.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#d {
+    background-image: url(/ej7/images/back_mantel.jpg);
+    background-repeat: no-repeat;
+    background-size: 75%;
+    background-position: center;
+    background-color: aliceblue;
+}
+
+#e {
+    background-image: url("/ej7/images/dh.jpg");
+    background-size: cover;
+    ;
+
+}
+
+#f {
+    background-image: url("/ej7/images/dh.jpg");
+    background-repeat: no-repeat;
+    background-size: 75%;
+    background-position: center;
+    background-color: aliceblue;
+}
+
+#g {
+    background-image: url("/ej7/images/dh_2.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: aliceblue;
+}
+
+#h {
+    background-image: url("/ej7/images/dh_3.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: aliceblue;
+}
+
+#i {
+    background-image: linear-gradient(90deg, rgb(135, 223, 95), green);
+}
+
+#j {
+    background-image: linear-gradient(rgb(228, 118, 55) 60%, rgb(197, 49, 5), rgb(228, 118, 55));
+}
+
+#k {
+    background-image: linear-gradient(white, green);
+}
+
+#l {
+    background-image: linear-gradient(transparent 30%, green);
+}
