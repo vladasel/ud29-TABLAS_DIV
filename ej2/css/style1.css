@@ -1,0 +1,22 @@
+table{
+    border: 2px solid rgb(98, 157, 224) ;
+    border-collapse:collapse ;
+    box-shadow: 3px 3px rgb(144, 91, 180);
+
+}
+
+th{
+    border: 2px solid rgb(98, 157, 224) ;
+    color: greenyellow;
+    background-color: green;
+}
+td{
+
+    border: 2px solid rgb(98, 157, 224) ;
+    background-color:greenyellow ;
+
+}
+
+.sombreado{
+    background-color:  rgb(152, 144, 158);
+}
