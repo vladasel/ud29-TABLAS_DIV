@@ -2,7 +2,7 @@
     width: 900px;
     height: 600px;
     background-color: aquamarine;
-    background-image: url("/ej4/images/pingu.jpeg");
+    background-image: url("../images/pingu.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
