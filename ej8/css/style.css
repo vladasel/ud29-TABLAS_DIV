@@ -1,0 +1,87 @@
+.principal{
+    display: inline-block;
+    width: 900px;
+    height: 1200px;
+    position: relative;
+
+
+}
+
+
+.arriba,.abajo{
+    border: 2px solid blue;
+    width: 210px;
+    height: 150px;
+    float: left;
+    margin-top: 30px;
+    background-color: rgb(102, 171, 228);
+    position: relative;
+    overflow: hidden;
+
+}
+
+.abajo .contenido,
+.arriba .contenido{
+    position: absolute;
+    width:110%;
+    height:80%;
+    bottom: 5px;
+    left: 0;
+}
+
+
+
+
+.centro{
+    border: 2px solid red;
+    width: 550px;
+    height: 400px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: rgb(102, 171, 228);
+    position: relative;
+}
+
+.centro span
+{
+    position:absolute;
+    top: 30px;
+}
+
+.suelo{
+    position: absolute;
+    bottom: 0;
+    height: 15px;
+    width: 100%;
+    background-image: url("/ej8/images/f01.png");
+    background-repeat: repeat;
+}
+
+#cielo{
+    position: absolute;
+    width: 120%;
+    left: 10;
+    display: flex;
+}
+
+.nuves {
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.centro .contenido{
+    position: absolute;
+    width: 200;
+    height: 150px;
+    bottom: 5px;
+    left: 0;
+}
+#marco{
+    position: absolute;
+    bottom: 0;
+    width: 165px;
+    height: 90px;
+}
+
+
