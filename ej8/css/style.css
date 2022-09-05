@@ -54,7 +54,7 @@
     bottom: 0;
     height: 15px;
     width: 100%;
-    background-image: url("/ej8/images/f01.png");
+    background-image: url("../images/f01.png");
     background-repeat: repeat;
 }
 
