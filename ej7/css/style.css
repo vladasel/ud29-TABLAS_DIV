@@ -1,7 +1,7 @@
 .principal {
     width: 600px;
     height: 500px;
-    background-image: url("/ej7/images/ac.jpg");
+    background-image: url("../images/ac.jpg");
     display: inline-block;
     margin: 5%;
 
@@ -34,7 +34,7 @@
 }
 
 #a {
-    background-image: url(/ej7/images/back_mantel.jpg);
+    background-image: url(../images/back_mantel.jpg);
 }
 
 #b {
@@ -42,19 +42,19 @@
 }
 
 #b>div {
-    background-image: url(/ej7/images/back_mantel.jpg);
+    background-image: url(../images/back_mantel.jpg);
     margin: 10px;
     height: 80px;
 }
 
 #c {
-    background-image: url(/ej7/images/back_mantel.jpg);
+    background-image: url(../images/back_mantel.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #d {
-    background-image: url(/ej7/images/back_mantel.jpg);
+    background-image: url(../images/back_mantel.jpg);
     background-repeat: no-repeat;
     background-size: 75%;
     background-position: center;
@@ -62,14 +62,14 @@
 }
 
 #e {
-    background-image: url("/ej7/images/dh.jpg");
+    background-image: url("../images/dh.jpg");
     background-size: cover;
     ;
 
 }
 
 #f {
-    background-image: url("/ej7/images/dh.jpg");
+    background-image: url("../images/dh.jpg");
     background-repeat: no-repeat;
     background-size: 75%;
     background-position: center;
@@ -77,7 +77,7 @@
 }
 
 #g {
-    background-image: url("/ej7/images/dh_2.jpg");
+    background-image: url("../images/dh_2.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -85,7 +85,7 @@
 }
 
 #h {
-    background-image: url("/ej7/images/dh_3.jpg");
+    background-image: url("../images/dh_3.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
